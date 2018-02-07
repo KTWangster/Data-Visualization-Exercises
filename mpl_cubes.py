@@ -1,5 +1,5 @@
 """
-A program which  plots the first five numbers raised to the third power.
+A program which plots the first five numbers raised to the third power.
 
 """
 
